@@ -1,0 +1,19 @@
+{
+	"name": "theme-monokai-chalk",
+	"displayName": "Theme Monokai Chalk",
+	"description": "Theme Monokai Chalk",
+	"version": "1.0.0",
+	"publisher": "toyobayashi",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Chalk",
+				"uiTheme": "vs-dark",
+				"path": "./monokai-chalk-color-theme.json"
+			}
+		]
+	}
+}
